@@ -1,22 +1,22 @@
 criaCartao(
-    'Cores',
-    'Quais são as cores primárias?',
-    'Vermelho, azul e amarelo'
+    'Política',
+    'Quem foi o primeiro presidente do Brasil?',
+    'Deodoro da Fonseca.'
     )
     
     criaCartao(
-    'Conhecimentos gerais',
-    'Quantas pessoas há no mundo?',
-    'No mundo há 8,025 bilhões'
+    'História',
+    'Qual foi o estopim da segunda guerra mundial?',
+    'Foi a invasão da Polônia realizada pelos alemães, em setembro de 1939.'
     )
     
     criaCartao(
     'Curiosidades',
-    'Quem são os donos da Wepink',
-    'Virgínia Fonseca e Samara Pink'
+    'Quais são os nomes dos filhos da Virgínia Fonseca?',
+    'Maria Alice, Maria Flor e José Leonardo.'
     )
     criaCartao(
-    'História',
-    'Quem descobriu o Brasil?',
-    'Pedro Álvares Cabral'
+    'Biologia',
+    'Quantos ossos tem um humano?',
+    '206 ossos.'
     )
