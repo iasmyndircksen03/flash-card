@@ -1,17 +1,22 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
-
-criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
+    'Cores',
+    'Quais são as cores primárias?',
+    'Vermelho, azul e amarelo'
+    )
+    
+    criaCartao(
+    'Conhecimentos gerais',
+    'Quantas pessoas há no mundo?',
+    'No mundo há 8,025 bilhões'
+    )
+    
+    criaCartao(
+    'Curiosidades',
+    'Quem são os donos da Wepink',
+    'Virgínia Fonseca e Samara Pink'
+    )
+    criaCartao(
+    'História',
+    'Quem descobriu o Brasil?',
+    'Pedro Álvares Cabral'
+    )
